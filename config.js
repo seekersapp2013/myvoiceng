@@ -7,5 +7,4 @@ module.exports = {
     SENGRID_API_KEY: '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',
     EMAIL_FROM: 'easycom2011@gmail.com',
     EMAIL_TO: 'easycom2011@gmail.com',
-    WEATHER_API_KEY: 'b687283f063884d31e0f527129779ef2',
 };
